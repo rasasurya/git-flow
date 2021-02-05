@@ -6,4 +6,6 @@ int main(){
     // TODO
 
     cout << "Hello World!" << endl;
+
+    return 0;
 }
